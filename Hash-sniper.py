@@ -1,4 +1,4 @@
-7# A simple hash cracker python script by Anon404 
+# A simple hash cracker python script by Anon404 
 
 import os
 import hashlib
