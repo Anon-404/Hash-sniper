@@ -11,10 +11,10 @@ A powerfull python hash cracking tool
 
 ## Features 
 
-[+] Fast python hash cracking script 
-[+] 12 type hash supported 
-[+] No error with opening large txt file 
-[+] Progress bar while cracking 
+[+] Fast python hash cracking script<br>
+[+] 12 type hash supported<br>
+[+] No error with opening large txt file<br>
+[+] Progress bar while cracking<br>
 
 ## Installation
 
