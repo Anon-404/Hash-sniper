@@ -9,6 +9,13 @@ A powerfull python hash cracking tool
 
 ![App Screenshot](https://imgur.com/o8BNWkS.png)
 
+## Features 
+
+[+] Fast python hash cracking script 
+[+] 12 type hash supported 
+[+] No error with opening large txt file 
+[+] Progress bar while cracking 
+
 ## Installation
 
 For debian based linux os
