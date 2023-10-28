@@ -5,9 +5,9 @@ A powerfull python hash cracking tool
 
 ## Screenshots
 
-![App Screenshot](https://imgur.com/rVFJpz0.png)
+![App Screenshot](https://imgur.com/rXjvove.png)
 
-![App Screenshot](https://imgur.com/o8BNWkS.png)
+![App Screenshot](https://imgur.com/8rf7BSo.png)
 
 ## Features 
 
