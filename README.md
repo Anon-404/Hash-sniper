@@ -24,6 +24,7 @@ For debian based linux os
 sudo apt install python3 -y
 git clone https://github.com/Anon-404/Hash-sniper
 cd Hash-sniper
+sudo apt install python3-pip
 sudo pip3 install tqdm
 python3 Hash-sniper.py
 ```
@@ -34,6 +35,7 @@ pkg install python -y
 pkg install git -y
 git clone https://github.com/Anon-404/Hash-sniper
 cd Hash-identer  
+pkg install python-pip
 pip install tqdm
 python Hash-sniper.py
 ```
@@ -44,6 +46,7 @@ For arch based linux
 sudo pacman -Sy python3 -y  
 git clone https://github.com/Anon-404/Hash-sniper
 cd Hash-sniper 
+pacman -S python3-pip
 sudo pip3 install tqdm
 python3 hash-sniper.py
 ```
