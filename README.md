@@ -48,7 +48,7 @@ git clone https://github.com/Anon-404/Hash-sniper
 cd Hash-sniper 
 pacman -S python3-pip
 sudo pip3 install tqdm
-python3 hash-sniper.py
+python3 Hash-sniper.py
 ```
 
 ## provided by team Anon404
