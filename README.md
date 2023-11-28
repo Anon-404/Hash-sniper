@@ -47,8 +47,7 @@ sudo pacman -Sy python3 -y
 git clone https://github.com/Anon-404/Hash-sniper
 cd Hash-sniper
 pacman -S python3-pip
-sudo pacman -S python-pipx
-sudo pipx install tqdm
+sudo pacman -S python-tqdm
 python3 Hash-sniper.py
 ```
 
