@@ -45,9 +45,10 @@ For arch based linux
 ```bash
 sudo pacman -Sy python3 -y  
 git clone https://github.com/Anon-404/Hash-sniper
-cd Hash-sniper 
+cd Hash-sniper
 pacman -S python3-pip
-sudo pip3 install tqdm
+sudo pacman -S python-pipx
+sudo pipx install tqdm
 python3 Hash-sniper.py
 ```
 
