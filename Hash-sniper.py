@@ -21,7 +21,7 @@ def banner():
 	print(GREEN,"_"*63)
 	print(RED,banner1)
 	print(GREEN,banner2)
-	print("powerd by Anon404 \ncreated by MRZ724")
+	print("powerd by Anon404 \ncreated by William Steven")
 	print(GREEN,"_"*63)	
 banner()
 print(GREEN,"\b[+] Enter your hash ")
